@@ -1,0 +1,10 @@
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe.config
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.exe
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\bin\Debug\SpaceInvaders.pdb
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\bin\Debug\AzulCoreCLRDebug.dll
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\bin\Debug\irrKlang.NET4.dll
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csprojAssemblyReference.cache
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CoreCompileInputs.cache
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.csproj.CopyComplete
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.exe
+C:\SE456\student\wxu22\Final\SpaceInvaders\SpaceInvaders\obj\Debug\SpaceInvaders.pdb

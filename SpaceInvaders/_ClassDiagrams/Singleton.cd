@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceInvaders.BoxSpriteManager" Collapsed="true">
+    <Position X="1.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAIAACAAAAAAAAAACAEABAgAAABICAAAAABAAAAEAAA=</HashCode>
+      <FileName>Manager\BoxSpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.GameObjectNodeManager" Collapsed="true">
+    <Position X="3.25" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAYAgAAgAAAAAAAAAAEABAACAABICAAAAgDAAAAkAAA=</HashCode>
+      <FileName>Manager\GameObjectNodeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.GlyphManager" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AQMAAEAQBAAAAAAAAAEABAAAAABIAAAAAABAAAAAAUA=</HashCode>
+      <FileName>Manager\GlyphManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.ImageManager" Collapsed="true">
+    <Position X="1.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAgQECBAAAAABIAAAAAABCAAAEAAA=</HashCode>
+      <FileName>Manager\ImageManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.ProxyBoxSpriteManager" Collapsed="true">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACAIAAAAAAAAAEABABAAABICAAAAABAQAAEAAA=</HashCode>
+      <FileName>Manager\ProxyBoxSpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.ProxySpriteManager" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAFAAAAAAAAAAAAAEABAAAAABICAAIAIBAAAAEAAA=</HashCode>
+      <FileName>Manager\ProxySpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SpriteBatchManager" Collapsed="true">
+    <Position X="1.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKQAAAAEAAAAgAAAAEABAgAAABIAAgAAABACAAUABA=</HashCode>
+      <FileName>Manager\SpriteBatchManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SpriteManager" Collapsed="true">
+    <Position X="3.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAEAAAEAAQAIAABICAAAAAFAAAAEAAA=</HashCode>
+      <FileName>Manager\SpriteManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SpriteNodeManager" Collapsed="true">
+    <Position X="5.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAABAEABAAAAABEAAAAAEFAAAIACCA=</HashCode>
+      <FileName>Manager\SpriteNodeManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

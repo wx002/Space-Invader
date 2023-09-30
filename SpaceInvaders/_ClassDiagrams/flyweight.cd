@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceInvaders.Font">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.Font.FontName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite\Font\Font.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABAAAAAAAAAAAAAAMAAAAAAABAABEQBA=</HashCode>
+      <FileName>Sprite\Font\Font.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="fontSprite" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.FontSprite">
+    <Position X="6.75" Y="2" Width="1.5" />
+    <Members>
+      <Method Name="Clean" Hidden="true" />
+      <Method Name="Clear" Hidden="true" />
+      <Method Name="FontSprite" Hidden="true" />
+      <Method Name="GetData" Hidden="true" />
+      <Method Name="Print" Hidden="true" />
+      <Method Name="Render" Hidden="true" />
+      <Method Name="Set" Hidden="true" />
+      <Method Name="SetColor" Hidden="true" />
+      <Method Name="Update" Hidden="true" />
+      <Method Name="UpdateMessage" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAUAAAAAEAAABAEAAAAACAABAAAMAAIAABhgAABEQAA=</HashCode>
+      <FileName>Sprite\Font\FontSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.Glyph">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <Members>
+      <Method Name="Clean" Hidden="true" />
+      <Method Name="Clear" Hidden="true" />
+      <Method Name="GetAzulRect" Hidden="true" />
+      <Method Name="GetAzulTexture" Hidden="true" />
+      <Method Name="GetData" Hidden="true" />
+      <Method Name="Glyph" Hidden="true" />
+      <Method Name="Print" Hidden="true" />
+      <Method Name="Set" Hidden="true" />
+    </Members>
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.Glyph.GlyphName" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Sprite\Font\Glyph.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAABQAAAAAEAAEBAAIEAAAAAAAAAABEQAA=</HashCode>
+      <FileName>Sprite\Font\Glyph.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.BaseSprite" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Sprite\BaseSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.FontManager">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAAAAAAAAEABAAEAABICAEAAABAAAAAAAE=</HashCode>
+      <FileName>Manager\FontManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="node" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.GlyphManager">
+    <Position X="11.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQMAAEAQBAAAAAAAAAEABAAAAABIAAAAAABAAAAAAUA=</HashCode>
+      <FileName>Manager\GlyphManager.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="glyphArray" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

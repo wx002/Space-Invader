@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SpaceInvaders.SceneState" Collapsed="true">
+    <Position X="2.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAwAAAAAAAAAAAAAAEAIAAAAAgAAAAAA=</HashCode>
+      <FileName>Scene\SceneState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SceneContext">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SpaceInvaders.SceneContext.SceneTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Scene\SceneContext.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAEAAAAAAAAAAAiAAAAAAABAAAAAAAAAAIA=</HashCode>
+      <FileName>Scene\SceneContext.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sceneState" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.SceneSelect" Collapsed="true">
+    <Position X="2" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAQAAAwAAAAAAAAAAAEAAAAIAACAAgIAAAAA=</HashCode>
+      <FileName>Scene\SceneSelect.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="tInstance" />
+      <Field Name="selectBatchManager" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.ScenePlayGame" Collapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAACAAAAwAAAAAYAAAAAAAAAAIAICAAgAAAAAA=</HashCode>
+      <FileName>Scene\ScenePlayGame.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="playBatchManager" />
+      <Field Name="tInstance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.SceneGameOver" Collapsed="true">
+    <Position X="3.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAACAwAAACAAAAAAAEAAAAIAACAAgAAAAAA=</HashCode>
+      <FileName>Scene\SceneGameOver.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gameOverBatchManager" />
+      <Field Name="tInstance" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="SpaceInvaders.TimeEventManager" Collapsed="true">
+    <Position X="4.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAIAAAQAgEAAAMQAAAAAgBIAACAAADAAAAEAEA=</HashCode>
+      <FileName>Manager\TimeEventManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpaceInvaders.SpriteBatchManager" Collapsed="true">
+    <Position X="2.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAKQAAAAEAAAAgAAAAEABAgAAABIAAgAAABAAAAUABA=</HashCode>
+      <FileName>Manager\SpriteBatchManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
